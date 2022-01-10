@@ -1,4 +1,4 @@
-# HDZero Freestlye VTX - *Preliminary Model* 
+# HDZero Freestlye VTX - *Preliminary CAD Model* 
 
 This is a model of the upcoming HDZero Freestyle VTX based off advertised *pre-release* dimensions and other information gathered from photos. 
 
