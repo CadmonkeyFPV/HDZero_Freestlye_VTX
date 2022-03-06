@@ -1,4 +1,4 @@
-# HDZero Freestlye VTX - *Preliminary CAD Model* 
+# HDZero Freestlye VTX
 
 This is a model of the HDZero Freestyle VTX 
 
